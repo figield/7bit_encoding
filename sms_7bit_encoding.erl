@@ -1,4 +1,4 @@
--module(7bit_encoding).
+-module(sms_7bit_encoding).
 
 -author("dawid.figiel@gmail.com").
 -compile(export_all).
